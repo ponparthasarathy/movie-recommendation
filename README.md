@@ -79,8 +79,6 @@ Ratings are used only for:
 
 ---
 
-## ▶️ How to Run the Project
-
-### 1️⃣ Install dependencies
+## ▶️ Download the Dataset
 ```bash
-pip install pandas numpy scikit-learn
+https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset
